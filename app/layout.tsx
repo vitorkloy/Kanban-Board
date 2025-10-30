@@ -3,8 +3,8 @@ import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Seu App",
-  description: "Descrição do seu aplicativo",
+  title: "Meu App",
+  description: "Descrição do aplicativo",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
